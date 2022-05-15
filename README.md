@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexpascual28, First Degree in Mechatronics and Robotics Engineering BEng(Hons)
+- 👋 Hi, I’m @Alexpascual28, First Degree in Mechatronics and Robotics Engineering BEng(Hons) from the University of Leeds.
 - 👀 I’m interested in all robotics related technologies, Computer Vision (OpenCV), Human-Machine Interfacing, Deep Learning and Reinforcement Learning (Keras), Videogame Development (through Unity) and MBED, Arduino and Raspberry Pi development boards.
   I have experience in Python, C, C++, C# (Unity), Matlab, Javascript, Assembly, HTML, CSS and PHP.
 - 🌱 I’m currently learning OpenCV and Keras Python Libraries.
