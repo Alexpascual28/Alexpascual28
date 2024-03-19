@@ -1,4 +1,4 @@
-* Welcome to AlexRobotics GitHub Repository! *
+Welcome to AlexRobotics GitHub Repository!
 
 - 👋 Hi, I’m @Alexpascual28, First-Class Honours (1st) in Mechatronics and Robotics Engineering BEng(Hons) from the University of Leeds.
 - 👀 I’m interested in all robotics related technologies, Computer Vision (OpenCV), Human-Machine Interfacing, Deep Learning and Reinforcement Learning (Keras), Videogame Development (through Unity) and MBED, Arduino and Raspberry Pi development boards.
