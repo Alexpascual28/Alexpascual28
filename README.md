@@ -1,12 +1,34 @@
-# 👋 Hi there, I'm Alejandro Pascual San Román - aka [Alexpascual28](https://github.com/Alexpascual28)
+# 👋 Hi there, I'm Alex - aka [Alexpascual28](https://github.com/Alexpascual28)
 
 ### I'm a Software, Mechatronics, and Robotics Engineer from Spain, working at the University of York!
 
-- 🔭 I’m currently working on various robotics projects, involving everything from Computer Vision to complex robotics control algorithms.
-- 🌱 I’m constantly learning and evolving in fields like Deep Learning, Reinforcement Learning, and advanced robotics systems.
-- 👯 I’m looking to collaborate on projects that focus on Human-Machine Interfaces and intelligent robotics solutions.
-- 🥅 2024 Goals: Contribute more to Open Source projects and enhance real-world robotics applications.
-- ⚡ Fun fact: I love to dive into Videogame Development during my free time, building games in Unity.
+🔭 I’m currently working as a Robotics Laboratory Technician at the University of York, where I apply my skills in mechatronics and robotics to drive innovation and education in intelligent robotics systems.
+
+🎓 **Educational Background:**
+
+- BEng(Hon) First-Class Honours in Mechatronics and Robotics Engineering from the **University of Leeds**.
+
+👨‍💻 **Professional Experience includes:**
+
+- Lead **Robotics** Lab Technician at **University of York, UK**
+- Robotics **Software** Engineer at **LABMAN Automation**
+- Junior Software Developer at **ATLAS Live Timing**
+- Photogrammetry and **Mechatronics** Specialist at **Universidad Complutense de Madrid (UCM)** for **Museo Reina Sofía, Madrid**
+
+💼 **Key Skills**:
+
+- **Programming Languages**: Python, C, C++, C#, JavaScript, Matlab, Assembly, HTML, CSS, PHP.
+- **Frameworks and Tools**: OpenCV, Keras, Unity, MBED, Arduino, Raspberry Pi.
+- **Areas of Interest**: Computer Vision, Human-Machine Interfacing, Deep Learning, Reinforcement Learning, Videogame Development.
+
+👯 **I’m looking to collaborate on**:
+
+- Open source projects related to **robotics**, **AI**, or educational tools.
+- Innovative projects involving **Computer Vision** and **Machine Learning**.
+
+📈 Fun fact: I’m an avid fan of 3D printing and DIY electronics, often integrating these into my robotics projects for prototyping and testing new ideas. I also love to dive into Videogame Development during my free time, building games in Unity.
+
+Feel free to fork or star my repositories if you find something that interests you!
 
 ### Connect with me:
 
@@ -36,17 +58,6 @@
 ---
 
 <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alexpascual28&show_icons=true&hide_border=true" />
-
-
-**Welcome to my GitHub Repository!**
-
-- 👋 Hello there! I'm Alex, a passionate software engineer and mechatronics specialist on a mission to harness the power of technology to drive innovation and solve real-world challenges. With a background in mechatronics and robotics engineering, I bring a unique blend of skills that spans coding, hardware design, and system integration.
-- ⚙️ I have worked as a software engineer, as a mechatronics specialist and as a laboratory technician in both academic and industrial environments for a wide range of prestigious companies and institutions, such as the University of York, Reina Sofía Art Museum and Labman Automation.
-- 🎓 I hold a First-Class Honours (1st) degree in Mechatronics and Robotics Engineering BEng(Hon) from the University of Leeds.
-- 👀 I’m interested in all robotics related technologies, Computer Vision (OpenCV), Human-Machine Interfacing, Deep Learning and Reinforcement Learning (Keras), Videogame Development (through Unity) and MBED, Arduino and Raspberry Pi development boards. I have experience in Python, C, C++, C#, Matlab, Javascript, Assembly, HTML, CSS and PHP.
-- 🌱 I’m currently learning OpenCV and Keras Python Libraries.
-- 💞️ I’m looking to collaborate on larger scale software, robotics, automation and data science related projects.
-- 📫 Reach me through my email: info@alexrobotics.net
 
 <!---
 Alexpascual28/Alexpascual28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
