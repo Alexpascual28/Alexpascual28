@@ -23,7 +23,7 @@
 👨‍💻 **Professional Experience includes:**
 
 - Lead **Robotics** Lab Technician at **University of York, UK**
-- Robotics **Software** Engineer at **LABMAN Automation**
+- Robotics **Software** Engineer at **Labman Automation**
 - Junior Software Developer at **ATLAS Live Timing**
 - Photogrammetry and **Mechatronics** Specialist at **Universidad Complutense de Madrid (UCM)** for **Museo Reina Sofía, Madrid**
 
