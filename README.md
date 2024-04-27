@@ -4,12 +4,14 @@
 
 [![Email](https://img.shields.io/badge/Email-info%40alexrobotics.net-blue)](mailto:info@alexrobotics.net)
 [![Website](https://img.shields.io/badge/Website-www.alexrobotics.net-green)](alexrobotics.net)
+[![Website](https://img.shields.io/badge/LinkedIn-www.alexrobotics.net-green)](https://www.linkedin.com/in/alexpascual28/)
+[![Website](https://img.shields.io/badge/Twitter/X-Alexpascual28-blue)](https://twitter.com/Alexpascual28)
 
 ## My Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexpascual28/">LinkedIn</a> • 
-  <a href="https://twitter.com/Alexpascual28">Twitter</a>
+  <a href="">LinkedIn</a> • 
+  <a href="">Twitter</a>
 </p>
 
 ## 📕 Latest Projects
