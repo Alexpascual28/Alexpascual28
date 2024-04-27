@@ -7,13 +7,6 @@
 [![Website](https://img.shields.io/badge/LinkedIn-linkedin.com/in/alexpascual28-green)](https://www.linkedin.com/in/alexpascual28/)
 [![Website](https://img.shields.io/badge/Twitter/X-twitter.com/Alexpascual28-blue)](https://twitter.com/Alexpascual28)
 
-## My Socials
-
-<p align="center">
-  <a href="">LinkedIn</a> • 
-  <a href="">Twitter</a>
-</p>
-
 ## 📕 Latest Projects
 
 - [RPRK General Control Class](https://github.com/Alexpascual28/rprk_general_control_class) - Serial communication interface algorithm between Raspberry Pi 4 and Arduino Nano 33 BLE.
