@@ -63,8 +63,8 @@ Feel free to fork or star my repositories if you find something that interests y
 ## 👨‍💻 Stats
 
 <div align="center">
-  <div class="d-flex align-items-center justify-content-center">[<img src="https://github-readme-stats.vercel.app/api?username=Alexpascual28&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />](https://github-readme-stats.vercel.app/api?username=Alexpascual28)</div>
-  <div class="d-flex align-items-center justify-content-center">[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpascual28&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpascual28)</div>
+  [<img src="https://github-readme-stats.vercel.app/api?username=Alexpascual28&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />](https://github-readme-stats.vercel.app/api?username=Alexpascual28)
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpascual28&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpascual28)
 </div>
 
 <!---
