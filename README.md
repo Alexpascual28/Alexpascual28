@@ -60,7 +60,7 @@ Feel free to fork or star my repositories if you find something that interests y
 
 ---
 
-<img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alexpascual28&show_icons=true&hide_border=true" />
+<img align="center" alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alexpascual28&show_icons=true&hide_border=true" />
 
 <!---
 Alexpascual28/Alexpascual28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
