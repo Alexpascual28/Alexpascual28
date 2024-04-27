@@ -2,10 +2,10 @@
 
 ## Connect with me:
 
-[![Email](https://img.shields.io/badge/Email-info%40alexrobotics.net-blue)](mailto:info@alexrobotics.net)
-[![Website](https://img.shields.io/badge/Website-www.alexrobotics.net-green)](alexrobotics.net)
-[![Website](https://img.shields.io/badge/LinkedIn-www.alexrobotics.net-green)](https://www.linkedin.com/in/alexpascual28/)
-[![Website](https://img.shields.io/badge/Twitter/X-Alexpascual28-blue)](https://twitter.com/Alexpascual28)
+[![Email](https://img.shields.io/badge/Email-info%40alexrobotics.net-red)](mailto:info@alexrobotics.net)
+[![Website](https://img.shields.io/badge/Website-www.alexrobotics.net-yellow)](alexrobotics.net)
+[![Website](https://img.shields.io/badge/LinkedIn-linkedin.com/in/alexpascual28-green)](https://www.linkedin.com/in/alexpascual28/)
+[![Website](https://img.shields.io/badge/Twitter/X-twitter.com/Alexpascual28-blue)](https://twitter.com/Alexpascual28)
 
 ## My Socials
 
