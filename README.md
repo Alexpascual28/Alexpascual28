@@ -62,10 +62,10 @@ Feel free to fork or star my repositories if you find something that interests y
 
 ## 👨‍💻 Stats
 
-<p align="center"> 
+<div align="center"> 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Alexpascual28)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpascual28)
-</p>
+</div>
 
 <!---
 Alexpascual28/Alexpascual28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
