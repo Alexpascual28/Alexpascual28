@@ -1,5 +1,16 @@
 # 👋 Hi there, I'm Alex - aka [Alexpascual28](https://github.com/Alexpascual28)
 
+### Connect with me:
+
+[![Email](https://img.shields.io/badge/Email-info%40alexrobotics.net-blue)](mailto:info@alexrobotics.net)
+
+### 📕 Latest Projects
+
+- [RPRK General Control Class](https://github.com/Alexpascual28/rprk_general_control_class) - Serial communication interface algorithm between Raspberry Pi 4 and Arduino Nano 33 BLE.
+- [EVA Armbot Control Class](https://github.com/Alexpascual28/eva_armbot_control_class) - Control class for Automata "Eva" robot arms in Python.
+- [RAPP Pick and Place](https://github.com/Alexpascual28/rapp_pick_and_place) - Pick and place algorithm using OpenCV for an industrial robot arm.
+- [RLIS Inventory System](https://github.com/Alexpascual28/rlis_inventory_system) - A comprehensive inventory system for robotics labs built with Google Apps Script.
+
 ### I'm a Software, Mechatronics, and Robotics Engineer from Spain, working at the University of York!
 
 🔭 I’m currently working as a Robotics Laboratory Technician at the University of York, where I apply my skills in mechatronics and robotics to drive innovation and education in intelligent robotics systems.
@@ -30,10 +41,6 @@
 
 Feel free to fork or star my repositories if you find something that interests you!
 
-### Connect with me:
-
-[![Email](https://img.shields.io/badge/Email-info%40alexrobotics.net-blue)](mailto:info@alexrobotics.net)
-
 ### Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -47,13 +54,6 @@ Feel free to fork or star my repositories if you find something that interests y
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberry-pi)
-
-### 📕 Latest Projects
-
-- [RPRK General Control Class](https://github.com/Alexpascual28/rprk_general_control_class) - Serial communication interface algorithm between Raspberry Pi 4 and Arduino Nano 33 BLE.
-- [EVA Armbot Control Class](https://github.com/Alexpascual28/eva_armbot_control_class) - Control class for Automata "Eva" robot arms in Python.
-- [RAPP Pick and Place](https://github.com/Alexpascual28/rapp_pick_and_place) - Pick and place algorithm using OpenCV for an industrial robot arm.
-- [RLIS Inventory System](https://github.com/Alexpascual28/rlis_inventory_system) - A comprehensive inventory system for robotics labs built with Google Apps Script.
 
 ---
 
