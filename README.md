@@ -65,8 +65,9 @@ Feel free to fork or star my repositories if you find something that interests y
 <div align="center">
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Alexpascual28&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />](https://github.com/anuraghazra/github-readme-stats)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpascual28](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpascual28)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpascual28" />](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpascual28)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpascual28)
 </div>
 
 <!---
