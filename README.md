@@ -3,7 +3,7 @@
 ### Connect with me:
 
 [![Email](https://img.shields.io/badge/Email-info%40alexrobotics.net-blue)](mailto:info@alexrobotics.net)
-[![Website](https://img.shields.io/badge/Email-info%40alexrobotics.net-green)](alexrobotics.net)
+[![Website](https://img.shields.io/badge/Website-www.alexrobotics.net-green)](alexrobotics.net)
 
 ### 📕 Latest Projects
 
