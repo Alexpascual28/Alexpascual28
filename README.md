@@ -17,10 +17,10 @@
   
 </p>
 
-<a href="https://github.com/Alexpascual28">
+<a href="https://github.com/yunwei37">
   <img align="center" width="49%" src="./metrics-main.svg" />
 </a>
-<a href="https://github.com/Alexpascual28">
+<a href="https://github.com/yunwei37">
   <img align="center" width="49%" src="./metrics-lang-notable.svg" />
 </a>
 
