@@ -8,22 +8,9 @@
 ## My Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yusheng-zheng-611920280/">LinkedIn</a> • 
-  <a href="https://twitter.com/yunwei37">Twitter</a> • 
-  <a href="https://www.reddit.com/user/yunwei123">Reddit</a> • 
-  <a href="https://medium.com/@yunwei356">Blog in Medium</a> • 
-  <a href="https://www.producthunt.com/@yunwei_123">producthunt</a> • 
-  <a href="https://www.zhihu.com/people/yun-wei-64-11">知乎</a>
-  
+  <a href="https://www.linkedin.com/in/alexpascual28/">LinkedIn</a> • 
+  <a href="https://twitter.com/Alexpascual28">Twitter</a>
 </p>
-
-<a href="https://github.com/yunwei37">
-  <img align="center" width="49%" src="./metrics-main.svg" />
-</a>
-<a href="https://github.com/yunwei37">
-  <img align="center" width="49%" src="./metrics-lang-notable.svg" />
-</a>
-
 
 ## 📕 Latest Projects
 
