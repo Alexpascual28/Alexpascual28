@@ -62,8 +62,10 @@ Feel free to fork or star my repositories if you find something that interests y
 
 ## 👨‍💻 Stats
 
+<p align="center">
   [<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexpascual28&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />](https://github-readme-stats.vercel.app/api?username=Alexpascual28)
   [<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpascual28&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpascual28)
+</p>
 
 <!---
 Alexpascual28/Alexpascual28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
