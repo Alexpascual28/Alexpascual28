@@ -58,7 +58,7 @@ Feel free to fork or star my repositories if you find something that interests y
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net)
-![Unity](https://img.shields.io/badge/-UNITY-black?style=flat-square&logo=unity)
+![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberry-pi)
 
