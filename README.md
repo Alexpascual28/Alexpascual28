@@ -20,7 +20,7 @@
 
 🎓 **Educational Background:**
 
-- BEng(Hon) First-Class Honours in Mechatronics and Robotics Engineering from the **University of Leeds**.
+- BEng(Hons) First-Class Honours in Mechatronics and Robotics Engineering from the **University of Leeds**.
 
 👨‍💻 **Professional Experience includes:**
 
