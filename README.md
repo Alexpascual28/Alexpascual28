@@ -51,7 +51,7 @@ Feel free to fork or star my repositories if you find something that interests y
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 ![XAML](https://img.shields.io/badge/-XAML-black?style=flat-square&logo=xaml)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=matlab)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
