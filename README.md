@@ -31,8 +31,8 @@
 
 💼 **Key Skills**:
 
-- **Programming Languages**: Python, C, C++, C#, JavaScript, Matlab, Assembly, HTML, CSS, PHP.
-- **Frameworks and Tools**: OpenCV, Keras, Unity, MBED, Arduino, Raspberry Pi.
+- **Programming Languages**: Python, C, C++, C#, JavaScript, Matlab, XAML, Assembly, HTML, CSS, PHP.
+- **Frameworks and Tools**: .NET WPF, OpenCV, Keras, Unity, MBED, Arduino, Raspberry Pi.
 - **Areas of Interest**: Computer Vision, Human-Machine Interfacing, Deep Learning, Reinforcement Learning, Videogame Development.
 
 👯 **I’m looking to collaborate on**:
@@ -50,11 +50,15 @@ Feel free to fork or star my repositories if you find something that interests y
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![XAML](https://img.shields.io/badge/-XAML-black?style=flat-square&logo=xaml)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=matlab)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net)
+![UNITY](https://img.shields.io/badge/-UNITY-black?style=flat-square&logo=unity)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberry-pi)
 
