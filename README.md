@@ -14,9 +14,9 @@
 - [RAPP Pick and Place](https://github.com/Alexpascual28/rapp_pick_and_place) - Pick and place algorithm using OpenCV for an industrial robot arm.
 - [RLIS Inventory System](https://github.com/Alexpascual28/rlis_inventory_system) - A comprehensive inventory system for robotics labs built with Google Apps Script.
 
-## I'm a Software, Mechatronics, and Robotics Engineer from Spain, working at the University of York!
+## I'm a Software, Mechatronics, and Robotics Engineer from Spain, working at Humanoid!
 
-🔭 I’m currently working as a Robotics Laboratory Technician at the University of York, where I apply my skills in mechatronics and robotics to drive innovation and education in intelligent robotics systems.
+🔭 I currently work as Robotics Laboratory Manager at Humanoid, where I apply my skills in mechatronics and robotics to drive innovation in intelligent robotics systems.
 
 🎓 **Educational Background:**
 
@@ -24,6 +24,8 @@
 
 👨‍💻 **Professional Experience includes:**
 
+- Robotics Laboratory **Manager** at **Humanoid**
+- Software Data Input for LLM Model Training at **Scale AI**
 - Lead **Robotics** Lab Technician at **University of York, UK**
 - Robotics **Software** Engineer at **Labman Automation**
 - Junior Software Developer at **ATLAS Live Timing**
