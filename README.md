@@ -7,16 +7,16 @@
 [![Website](https://img.shields.io/badge/LinkedIn-linkedin.com/in/alexpascual28-blue)](https://www.linkedin.com/in/alexpascual28/)
 [![Website](https://img.shields.io/badge/Twitter/X-twitter.com/Alexpascual28-green)](https://twitter.com/Alexpascual28)
 
-## 📕 Latest Projects
+## 📕 Some of my Projects
 
 - [RPRK General Control Class](https://github.com/Alexpascual28/rprk_general_control_class) - Serial communication interface algorithm between Raspberry Pi 4 and Arduino Nano 33 BLE.
 - [EVA Armbot Control Class](https://github.com/Alexpascual28/eva_armbot_control_class) - Control class for Automata "Eva" robot arms in Python.
 - [RAPP Pick and Place](https://github.com/Alexpascual28/rapp_pick_and_place) - Pick and place algorithm using OpenCV for an industrial robot arm.
 - [RLIS Inventory System](https://github.com/Alexpascual28/rlis_inventory_system) - A comprehensive inventory system for robotics labs built with Google Apps Script.
 
-## I'm a Software, Mechatronics, and Robotics Engineer from Spain, working at Humanoid!
+## I'm a Software, Mechatronics, and Robotics Engineer from Spain!
 
-🔭 I currently work as Robotics Laboratory Manager at Humanoid, where I apply my skills in mechatronics and robotics to drive innovation in intelligent robotics systems.
+🔭 I have worked as Robotics Laboratory Manager at Humanoid, where I applied my skills in mechatronics and robotics to drive innovation in intelligent robotics systems.
 
 🎓 **Educational Background:**
 
@@ -24,6 +24,7 @@
 
 👨‍💻 **Professional Experience includes:**
 
+- Freelanced as **App Developer**
 - Robotics Laboratory **Manager** at **Humanoid**
 - Software Data Input for LLM Model Training at **Scale AI**
 - Lead **Robotics** Lab Technician at **University of York, UK**
@@ -33,12 +34,13 @@
 
 💼 **Key Skills**:
 
-- **Programming Languages**: Python, C, C++, C#, JavaScript, Matlab, XAML, SQL, Assembly, HTML, CSS, PHP.
-- **Frameworks and Tools**: .NET WPF, OpenCV, Keras, Unity, MBED, Arduino, Raspberry Pi.
+- **Programming Languages**: Python, C, C++, C#, Typescript, JavaScript, Matlab, XAML, SQL, Assembly, HTML, CSS, PHP.
+- **Frameworks and Tools**: React, Node.js, Tailgate CSS, .NET WPF, OpenCV, Keras, Unity, MBED, Arduino, Raspberry Pi.
 - **Areas of Interest**: Computer Vision, Human-Machine Interfacing, Deep Learning, Reinforcement Learning, Videogame Development.
 
 👯 **I’m looking to collaborate on**:
 
+- App development projects (Web, Android, IOS, Windows, Linux)
 - Open source projects related to **robotics**, **AI**, or educational tools.
 - Innovative projects involving **Computer Vision** and **Machine Learning**.
 
