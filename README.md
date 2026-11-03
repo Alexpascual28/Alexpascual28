@@ -66,15 +66,6 @@ Feel free to fork or star my repositories if you find something that interests y
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberry-pi)
 
----
-
-## 👨‍💻 Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexpascual28&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpascual28&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true" />
-</p>
-
 <!---
 Alexpascual28/Alexpascual28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
